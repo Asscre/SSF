@@ -28,19 +28,19 @@ class _HomePageState extends State<HomePage> {
     navBar = [
       BottomNavigationBarItem(
         icon: Icon(
-          IconData(0xe603, fontFamily: 'iconfont'),
+          Icons.home_outlined,
           size: sp(48),
         ),
       ),
       BottomNavigationBarItem(
         icon: Icon(
-          IconData(0xe602, fontFamily: 'iconfont'),
+          Icons.chat_outlined,
           size: sp(48),
         ),
       ),
       BottomNavigationBarItem(
         icon: Icon(
-          IconData(0xe604, fontFamily: 'iconfont'),
+          Icons.privacy_tip_outlined,
           size: sp(48),
         ),
       ),
