@@ -31,21 +31,18 @@ class _HomePageState extends State<HomePage> {
           IconData(0xe603, fontFamily: 'iconfont'),
           size: sp(48),
         ),
-        title: Text(''),
       ),
       BottomNavigationBarItem(
         icon: Icon(
           IconData(0xe602, fontFamily: 'iconfont'),
           size: sp(48),
         ),
-        title: Text(''),
       ),
       BottomNavigationBarItem(
         icon: Icon(
           IconData(0xe604, fontFamily: 'iconfont'),
           size: sp(48),
         ),
-        title: Text(''),
       ),
     ];
   }
