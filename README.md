@@ -1,4 +1,4 @@
-# ssf
+# SSF
 
 Speed Scafold Flutter是采用MVVM开发模式设计Flutter应用开发脚手架。使用Route管理、Provide、Page、model结合下快速开发高可用、高性能的应用。
 
@@ -12,8 +12,6 @@ Speed Scafold Flutter是采用MVVM开发模式设计Flutter应用开发脚手架
 - provide 对应page文件夹，用于逻辑相关和数据相关操作
 - pubs 用于存放二次封装插件
 - routes 用于路由配置
-
-# SSF
 
 <center> <h1> Flutter技术使用总结及开发规范说明
 
